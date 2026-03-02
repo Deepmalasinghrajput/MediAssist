@@ -3,6 +3,8 @@ pandas
 matplotlib
 seaborn
 setuptools
+scikit-learn
+transformers
 
 -e .
 
